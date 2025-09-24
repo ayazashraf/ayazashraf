@@ -77,6 +77,3 @@ My proven track record on **Upwork** includes **$60K+ earned, 770+ hours, 39 pro
 - [LinkedIn](https://linkedin.com/in/ayazashraf)  
 - [Upwork](https://www.upwork.com/freelancers/ayazashraf)  
 - Email: ayazworkemail@gmail.com
-
-- [LinkedIn](https://linkedin.com/in/ayazashraf)  
-- Email: ayazworkemail@gmail.com
