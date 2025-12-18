@@ -1,7 +1,7 @@
 # Hi, I'm Ayaz Ashraf 👋
 
 **Remote Software Engineer | Full-Stack Developer**  
-📍 Karachi, Pakistan | ✉ ayazashrafbusiness@gmail.com  
+📍 Karachi, Pakistan | ✉ ayaz@clevercertificates.com  
 🌐 [GitHub](https://github.com/ayazashraf) | 🔗 [LinkedIn](https://linkedin.com/in/ayazashraf) | [Upwork](https://www.upwork.com/freelancers/ayazashraf)
 
 ---
