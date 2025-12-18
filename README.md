@@ -8,11 +8,17 @@
 
 ## 🔹 About Me
 
-I'm a **Remote Software Engineer with 15+ years of experience** in full-stack development.  
-I consistently contribute to **open-source and professional projects**, with over **1,100 contributions** in the last year alone.
+I am a **SaaS Architect and Product Owner** with over 15 years of experience building and scaling high-performance digital ecosystems.
 
-I have delivered **SaaS platforms, real-time apps, and API-driven solutions** for clients in the **US, UK, EU, and Middle East**.  
-My proven track record on **Upwork** includes **$60K+ earned, 770+ hours, 39 projects completed, and a 100% Job Success Score**.
+My approach—often described as **"Unicorn Engineering"**—bridges the gap between deep technical architecture and strategic product growth. I don't just write code; I architect solutions that reduce business risk and drive long-term scalability.
+
+**Current Focus:** I am the Lead Architect and Owner of **Clever Certificates**, a global SaaS platform I acquired after 6 years of technical leadership.
+
+**Technical Powerhouse:** I maintain an elite pace of innovation with over **1,200+** contributions in the last year alone.
+
+**Global Impact:** I have delivered complex SaaS engines, payment orchestration systems, and real-time apps for founders across the **US, UK, and Australia**.
+
+**Proven Trust:** On **Upwork**, I maintain a **100% Job Success Score** with $60k+ earned across 39+ high-value projects.
 
 ---
 
