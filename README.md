@@ -1,8 +1,7 @@
 # Hi, I'm Ayaz Ashraf 👋
 
-**Remote Software Engineer | Full-Stack Developer**  
-📍 Karachi, Pakistan | ✉ ayaz@clevercertificates.com  
-🌐 [GitHub](https://github.com/ayazashraf) | 🔗 [LinkedIn](https://linkedin.com/in/ayazashraf) | [Upwork](https://www.upwork.com/freelancers/ayazashraf)
+**SaaS Architect | Product Owner | Unicorn Engineer** 📍 Karachi, Pakistan | ✉️ ayaz@clevercertificates.com  
+🔗 [LinkedIn](https://linkedin.com/in/ayazashraf) | 🏆 [Upwork Profile](https://www.upwork.com/freelancers/ayazashraf) | ✍️ [Medium Articles](https://medium.com/@ayazashrafbusiness)
 
 ---
 
@@ -12,7 +11,7 @@ I am a **SaaS Architect and Product Owner** with over 15 years of experience bui
 
 My approach—often described as **"Unicorn Engineering"**—bridges the gap between deep technical architecture and strategic product growth. I don't just write code; I architect solutions that reduce business risk and drive long-term scalability.
 
-**Current Focus:** I am the Lead Architect and Owner of **Clever Certificates**, a global SaaS platform I acquired after 6 years of technical leadership.
+**Current Focus:** Lead Architect and Owner of **@Clever-Certificates**, a global SaaS platform I acquired after 6 years of technical leadership.
 
 **Technical Powerhouse:** I maintain an elite pace of innovation with over **1,200+** contributions in the last year alone.
 
@@ -20,56 +19,50 @@ My approach—often described as **"Unicorn Engineering"**—bridges the gap bet
 
 ### 🛡️ Proven Trust & Ownership
 
-* **From Architect to Owner:** In 2024, I successfully acquired **@CleverCertificates**, a global SaaS platform I originally built as a lead consultant. This transition from developer to owner defines my commitment to long-term product viability.
-* **Elite Freelance Reputation:** I maintain a **100% Job Success Score** on Upwork, specializing in high-stakes projects for founders in the US, UK, and Australia.
-* **Thought Leadership:** I write about the intersection of engineering and business. Read my latest feature: ["From Freelance Developer to Product Owner"] 🔗 https://medium.com/@ayazashrafbusiness/from-freelance-developer-to-product-owner-how-i-acquired-the-platform-i-was-hired-to-build-8988656779bd
+* **From Architect to Owner:** In 2024, I successfully acquired **@Clever-Certificates**. This transition from lead consultant to owner defines my commitment to building long-term, viable product architectures.
+* **Elite Professional Reputation:** I maintain a **100% Job Success Score** on Upwork as a **Top Rated Plus** consultant, specializing in high-stakes projects for international founders.
+* **Thought Leadership:** I write about the intersection of engineering and business. Read my featured article: ["From Freelance Developer to Product Owner: How I Acquired the Platform I Was Hired to Build"](https://medium.com/@ayazashrafbusiness/from-freelance-developer-to-product-owner-how-i-acquired-the-platform-i-was-hired-to-build-8988656779bd)
 
 ---
 
-## 🔹 Skills
+## 🔹 Technical Stack
 
-**Languages & Frameworks:** PHP, TypeScript, JavaScript, Python, C#, Java, Laravel, NestJS, React, Ionic, Node.js, CodeIgniter, Angular, ColdFusion  
-**Databases:** PostgreSQL, MySQL, MS SQL Server, Firebase, MongoDB  
-**Mobile & Cloud:** Android (Java), iOS (Swift, Objective-C), Ionic, AWS, Docker, CI/CD  
-**Tools & Practices:** Git, GitHub, Jira, BitBucket, Mantis, Agile/Scrum, REST, GraphQL, SOAP, Unit Testing  
-**Payment & APIs:** Stripe, PayPal, K-Net, Authorize.Net  
+**Languages & Frameworks:** PHP (Laravel), TypeScript/JS (NestJS, React, Node.js), Python, C#, Java, Angular, Ionic.  
+**Databases & Cloud:** PostgreSQL, MySQL, MS SQL Server, MongoDB, AWS, Docker, CI/CD.  
+**Fintech & Payments:** Payment Orchestration (Paddle, Verifone, Stripe, PayPal, Authorize.Net).  
+**Practices:** Scalable Architecture, Agile/Scrum, API Design (REST, GraphQL), Unit Testing.
 
 ---
 
-## 🔹 Highlighted Projects
+## 🔹 Featured Engines & Projects
 
-- **Clever Certificates** – Web-based certificate designer with real-time editing and template automation ([clevercertificates.com](https://www.clevercertificates.com))  
-- **E-Commerce Platform** – NestJS + PostgreSQL backend with PayPal & Stripe integration, handling 50K+ monthly transactions  
-- **Cross-Platform Mobile App** – Ionic + Firebase app with push notifications and offline mode  
-- **WatchHorse TV App** – Native Ionic v2 apps for iOS and Android ([watchhorse.tv](https://www.watchhorse.tv))  
+- **Clever Certificates** – Lead the complete redesign and architecture of a high-speed certificate generation engine with custom e-commerce logic. ([clevercertificates.com](https://www.clevercertificates.com))  
+- **Global E-Commerce Engine** – Built a NestJS + PostgreSQL backend handling 50K+ monthly transactions with multi-region tax compliance.  
+- **WatchHorse TV** – Native-feel cross-platform mobile experience built with Ionic v2 for iOS and Android. ([watchhorse.tv](https://www.watchhorse.tv))  
 
 ---
 
 ## 🔹 Experience Summary
 
-- **Freelance Software Engineer (Remote)** – Upwork & Direct Clients (2008–Present)  
-  - $60K+ earned, 770+ hours, 39 projects, 5.0 star rating, 100% JSS  
-  - Delivered SaaS dashboards, CRMs, e-commerce platforms, and custom APIs  
+- **SaaS Consultant & Architect (Remote)** – Upwork & Direct Clients (2008–Present)  
+  - **Top Rated Plus status** with a **100% Job Success Score** across 39+ high-value projects.  
+  - Architected full-lifecycle SaaS dashboards, CRMs, and complex payment orchestration layers.  
 
-- **Team Lead – Software Development (Remote & In-house)**  
-  *ForeignTree Systems (2012–2020) & Divaaco (2020–2022)*  
-  - Led distributed development teams for international clients  
-  - Architected full-stack web/mobile solutions (Laravel, Ionic, NestJS, PostgreSQL)  
-  - Mentored junior developers and delivered projects under tight deadlines  
+- **Team Lead – Software Development** *ForeignTree Systems (2012–2020) & Divaaco (2020–2022)* - Led distributed engineering teams for international clients.  
+  - Mentored junior developers and standardized architectural patterns across the organization.  
 
 ---
 
 ## 🔹 Education
 
-- MSc, Computer Science – Virtual University of Pakistan  
-- MCS, Computer Science – University of Karachi  
-- BSc, Math/Physics/Computer Science – University of Karachi  
+- **MSc & MCS, Computer Science** – University of Karachi / Virtual University of Pakistan  
+- **BSc, Math/Physics/Computer Science** – University of Karachi  
 
 ---
 
 ## 🔹 Connect With Me
 
-- [GitHub](https://github.com/ayazashraf)  
 - [LinkedIn](https://linkedin.com/in/ayazashraf)  
+- [Medium](https://medium.com/@ayazashrafbusiness)  
 - [Upwork](https://www.upwork.com/freelancers/ayazashraf)  
-- Email: ayazashrafbusiness@gmail.com
+- **Email:** ayaz@clevercertificates.com
