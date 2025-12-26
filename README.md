@@ -18,7 +18,7 @@ My approach—often described as **"Unicorn Engineering"**—bridges the gap bet
 
 **Global Impact:** I have delivered complex SaaS engines, payment orchestration systems, and real-time apps for founders across the **US, UK, and Australia**.
 
-**Proven Trust:** On **Upwork**, I maintain a **100% Job Success Score** with $60k+ earned across 39+ high-value projects.
+**Proven Trust:** I am a **Top Rated Plus** consultant on **Upwork** with a **100% Job Success Score** across 40+ high-value projects, consistently delivering excellence for global clients.
 
 ---
 
