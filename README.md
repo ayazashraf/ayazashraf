@@ -1,7 +1,8 @@
 # Hi, I'm Ayaz Ashraf 👋
 
-**SaaS Architect | Product Owner | Unicorn Engineer** 📍 Karachi, Pakistan | ✉️ ayaz@clevercertificates.com  
-🔗 [LinkedIn](https://linkedin.com/in/ayazashraf) | 🏆 [Upwork Profile](https://www.upwork.com/freelancers/ayazashraf) | ✍️ [Medium Articles](https://medium.com/@ayazashrafbusiness)
+**SaaS Architect | Product Owner | Unicorn Engineer** 📍 Karachi, Pakistan | ✉️ [ayaz@clevercertificates.com](mailto:ayaz@clevercertificates.com)
+
+🔗 [LinkedIn](https://linkedin.com/in/ayazashraf) | 💼 [Peerlist](https://peerlist.io/ayaz_ashraf) | 🏆 [Upwork](https://www.upwork.com/freelancers/ayazashraf) | ✍️ [Medium](https://medium.com/@ayazashrafbusiness)
 
 ---
 
@@ -60,9 +61,14 @@ My approach—often described as **"Unicorn Engineering"**—bridges the gap bet
 
 ---
 
+---
+
 ## 🔹 Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/ayazashraf)  
-- [Medium](https://medium.com/@ayazashrafbusiness)  
-- [Upwork](https://www.upwork.com/freelancers/ayazashraf)  
-- **Email:** ayaz@clevercertificates.com
+| Platform | Link |
+| :--- | :--- |
+| **LinkedIn** | [@ayazashraf](https://linkedin.com/in/ayazashraf) |
+| **Peerlist** | [@ayaz_ashraf](https://peerlist.io/ayaz_ashraf) |
+| **Medium** | [@ayazashrafbusiness](https://medium.com/@ayazashrafbusiness) |
+| **Upwork** | [Verified Profile](https://www.upwork.com/freelancers/ayazashraf) |
+| **Email** | [ayaz@clevercertificates.com](mailto:ayaz@clevercertificates.com) 
