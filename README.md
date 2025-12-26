@@ -18,7 +18,11 @@ My approach—often described as **"Unicorn Engineering"**—bridges the gap bet
 
 **Global Impact:** I have delivered complex SaaS engines, payment orchestration systems, and real-time apps for founders across the **US, UK, and Australia**.
 
-**Proven Trust:** I am a **Top Rated Plus** consultant on **Upwork** with a **100% Job Success Score** across 40+ high-value projects, consistently delivering excellence for global clients.
+### 🛡️ Proven Trust & Ownership
+
+* **From Architect to Owner:** In 2024, I successfully acquired **@CleverCertificates**, a global SaaS platform I originally built as a lead consultant. This transition from developer to owner defines my commitment to long-term product viability.
+* **Elite Freelance Reputation:** I maintain a **100% Job Success Score** on Upwork, specializing in high-stakes projects for founders in the US, UK, and Australia.
+* **Thought Leadership:** I write about the intersection of engineering and business. Read my latest feature: ["From Freelance Developer to Product Owner"] 🔗 https://medium.com/@ayazashrafbusiness/from-freelance-developer-to-product-owner-how-i-acquired-the-platform-i-was-hired-to-build-8988656779bd
 
 ---
 
